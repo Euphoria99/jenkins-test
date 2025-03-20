@@ -21,7 +21,7 @@ public class RestCon {
 
     @GetMapping("/sayhello3")
     public String sayHello3(){
-        return "The end point works as expected 2";
+        return "The end point works as expected 3";
     }
     
 }
