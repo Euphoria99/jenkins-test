@@ -31,6 +31,6 @@ public class RestCon {
     
     @GetMapping("/sayhello5")
     public String sayHello5(){
-        return "The end point works as expected..its works on merge requests";
+        return "The end point works as expected 5";
     }
 }
