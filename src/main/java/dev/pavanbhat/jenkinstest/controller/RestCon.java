@@ -34,5 +34,10 @@ public class RestCon {
         return "Thus the end point works as expected..its works on merge requests....";
     }
 
+    @GetMapping("/test123")
+    public String test123(){
+        return "test123.";
+    }
+
     //test..,,,......
 }
