@@ -39,5 +39,4 @@ public class RestCon {
         return "test123.";
     }
 
-    //test..,,,...........
 }
